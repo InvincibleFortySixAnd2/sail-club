@@ -48,6 +48,41 @@ body {
   text-underline-position: under;
 }
 
+.news h3 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 26px;
+}
+
+.news h4 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+}
+
+.news-caption {
+  color: #8693A4;
+}
+
+.news-tagline {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.news-author-name {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+}
+
+.news-date-published {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  color: #8693A4;
+}
+
 .contacts h2 {
   font-size: 24px;
   line-height: 34px;
